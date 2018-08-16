@@ -1,6 +1,6 @@
 {
   "name": "@zenmate/vue-to-js",
-  "version": "0.9.6",
+  "version": "0.9.7",
   "description": "transform .vue file to .js file",
   "main": "lib/index.js",
   "scripts": {
